@@ -25,6 +25,11 @@ Presently **CloudBord** is just a front-end website and needs a back-end.
 
 - A backend is needed to connect the different devices over LAN.
 - Features like Copy,Cut & Paste needs to be implemented.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## Authors
 
 - [@SayakSarkar02](https://github.com/SayakSarkar02)
