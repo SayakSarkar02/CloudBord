@@ -8,6 +8,9 @@ Thus, I decided to create ClouBord.
 CloudBord is a Web Application which enables users to have a Local Area Network (LAN) clipboard.
 CloudBord helps users to have a common clipboard for all devices in a LAN where one can copy, cut and paste text and media seamlessly across all devices.
 
+## Important Links
+
+**You can access the CloudBord Website at:** [CloudBord](https://sayaksarkar02.github.io/CloudBord/)
 
 ## Tech Stack
 
