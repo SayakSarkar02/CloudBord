@@ -5,8 +5,53 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CloudBord</title>
+    <link rel="stylesheet" href="input.css">
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <h1>Testing CloudBord</h1>
+
+<body class="bg-brand  text-white">
+    <nav class="pt-10 px-16 flex justify-between">
+        <div class="flex flex-row justify-center my-auto">
+            <img src="./imgs/LOGO-2-01.png" class="w-12" alt="Image here">
+            <h1 class="px-2 text-4xl font text-center font-open_sans font-extrabold">CloudBord</h1>
+        </div>
+        <div class="flex flex-row justify-center items-center my-auto space-x-4 font-open_sans font-thin text-lg">
+            <div class="flex flex-row justify-center my-auto space-x-4 items-center">
+                <a href="#" class="px-2 py-1 hover:font-semibold">Home</a>
+                <a href="#" class="px-2 py-1 hover:font-semibold">Features</a>
+                <a href="#" class="px-2 py-1 hover:font-semibold">About</a>
+                <a href="#" class="px-2 py-1 hover:font-semibold">Contact</a>
+            </div>
+            <div class="flex flex-row justify-center my-auto space-x-1 px-2 bg-brand-button rounded-full">
+                <a href="#" class="px-2 py-1 hover:font-semibold">Login</a>
+                <div class="w-0.5 h-6 bg-white opacity-30 my-auto"></div>
+                <a href="#" class="px-2 py-1 hover:font-semibold">Register</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="flex flex-row justify-between items-center mx-4 px-16">
+        <div class="flex flex-col items-center">
+            <div>
+                <p class="text-5xl font-thin pt-10 px-1 py-10 font-open_sans">
+                    Use <span class="text-brand-button font-open_sans font-bold">ONE Clipboard</span> for all your devices
+                </p>
+            </div>
+            <div class="text-xl pt-4 pb-10 font-open_sans font-thin">
+                Now you can CUT, COPY & PASTE across your devices seamlessly with no hassle.
+            </div>
+            <div class="py-4 px-10 rounded-full bg-brand-button text-bold font-open_sans text-lg block hover:bg-opacity-50">
+                <a href="#" class="font-open_sans font-bold text-xl px-0 py-8">Get Started</a>
+            </div>
+        </div>
+        <div class="">
+            <img class="max-w-3xl" src="./imgs/art-2-01.png" alt="">
+        </div>
+    </div>
+
+    <div class="h-0.5 w-full bg-white opacity-20 mx-auto">
+
+    </div>
+
 </body>
 </html>

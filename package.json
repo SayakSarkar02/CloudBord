@@ -1,0 +1,26 @@
+{
+  "name": "cloudbord",
+  "version": "1.0.0",
+  "description": "Nowdays, most people have several machines (PCs, Phone, Tablets etc.) working simultaneously.\r I find myself facing the problem of transferring simple links or codes over to different devices.\r Thus, I decided to create ClouBord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SayakSarkar02/CloudBord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SayakSarkar02/CloudBord/issues"
+  },
+  "homepage": "https://github.com/SayakSarkar02/CloudBord#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.15",
+    "vite": "^2.7.13"
+  }
+}
